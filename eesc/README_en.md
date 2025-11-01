@@ -5,7 +5,7 @@ The logos of the Software Department of EESAST a.k.a. the Software Center of E.E
 ## Table of Contents
 
 + `public/`
-  + [`eesast_software.png`](./public/eesast_software.png): The original image
+  + [`eesast_software.png`](./public/eesast_software.png): The original image, designed by [Bx007](https://github.com/birdx-007)
   + Others: Variations derived from the original image
     + `eesast_software_trans*`: Images with a transparent background
     + `eesast_software_trans_enlarged*`：Images with a transparent background, and the surrounding white space is narrowed
