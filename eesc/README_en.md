@@ -1,6 +1,6 @@
 # eesc
 
-The logos of the Software Department of EESAST (EESC)
+The logos of the Software Department of EESAST a.k.a. the Software Center of E.E. (EESC)
 
 ## Table of Contents
 
